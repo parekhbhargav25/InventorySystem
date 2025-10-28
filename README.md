@@ -176,19 +176,3 @@ The system includes basic reporting capabilities:
 3. **Build Errors**
    - Ensure .NET 9.0 SDK is installed
    - Run `dotnet restore` to restore packages
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support and questions, please open an issue in the repository or contact the development team.
