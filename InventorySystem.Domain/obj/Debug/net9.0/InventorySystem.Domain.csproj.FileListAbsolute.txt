@@ -1,0 +1,11 @@
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Domain/bin/Debug/net9.0/InventorySystem.Domain.deps.json
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Domain/bin/Debug/net9.0/InventorySystem.Domain.dll
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Domain/bin/Debug/net9.0/InventorySystem.Domain.pdb
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Domain/obj/Debug/net9.0/InventorySystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Domain/obj/Debug/net9.0/InventorySystem.Domain.AssemblyInfoInputs.cache
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Domain/obj/Debug/net9.0/InventorySystem.Domain.AssemblyInfo.cs
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Domain/obj/Debug/net9.0/InventorySystem.Domain.csproj.CoreCompileInputs.cache
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Domain/obj/Debug/net9.0/InventorySystem.Domain.dll
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Domain/obj/Debug/net9.0/refint/InventorySystem.Domain.dll
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Domain/obj/Debug/net9.0/InventorySystem.Domain.pdb
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Domain/obj/Debug/net9.0/ref/InventorySystem.Domain.dll

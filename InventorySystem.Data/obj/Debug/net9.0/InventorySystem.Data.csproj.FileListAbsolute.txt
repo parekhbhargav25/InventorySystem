@@ -1,0 +1,17 @@
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/bin/Debug/net9.0/InventorySystem.Data.deps.json
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/bin/Debug/net9.0/InventorySystem.Data.runtimeconfig.json
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/bin/Debug/net9.0/InventorySystem.Data.dll
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/bin/Debug/net9.0/InventorySystem.Data.pdb
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/bin/Debug/net9.0/InventorySystem.Domain.dll
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/bin/Debug/net9.0/InventorySystem.Domain.pdb
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/obj/Debug/net9.0/InventorySystem.Data.csproj.AssemblyReference.cache
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/obj/Debug/net9.0/InventorySystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/obj/Debug/net9.0/InventorySystem.Data.AssemblyInfoInputs.cache
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/obj/Debug/net9.0/InventorySystem.Data.AssemblyInfo.cs
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/obj/Debug/net9.0/InventorySystem.Data.csproj.CoreCompileInputs.cache
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/obj/Debug/net9.0/Inventor.828DB107.Up2Date
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/obj/Debug/net9.0/InventorySystem.Data.dll
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/obj/Debug/net9.0/refint/InventorySystem.Data.dll
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/obj/Debug/net9.0/InventorySystem.Data.pdb
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/obj/Debug/net9.0/InventorySystem.Data.genruntimeconfig.cache
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Data/obj/Debug/net9.0/ref/InventorySystem.Data.dll

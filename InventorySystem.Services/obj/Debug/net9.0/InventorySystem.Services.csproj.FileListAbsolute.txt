@@ -1,0 +1,17 @@
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/bin/Debug/net9.0/InventorySystem.Services.deps.json
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/bin/Debug/net9.0/InventorySystem.Services.dll
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/bin/Debug/net9.0/InventorySystem.Services.pdb
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/bin/Debug/net9.0/InventorySystem.Data.dll
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/bin/Debug/net9.0/InventorySystem.Domain.dll
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/bin/Debug/net9.0/InventorySystem.Data.pdb
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/bin/Debug/net9.0/InventorySystem.Domain.pdb
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/obj/Debug/net9.0/InventorySystem.Services.csproj.AssemblyReference.cache
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/obj/Debug/net9.0/InventorySystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/obj/Debug/net9.0/InventorySystem.Services.AssemblyInfoInputs.cache
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/obj/Debug/net9.0/InventorySystem.Services.AssemblyInfo.cs
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/obj/Debug/net9.0/InventorySystem.Services.csproj.CoreCompileInputs.cache
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/obj/Debug/net9.0/Inventor.6B41C2B3.Up2Date
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/obj/Debug/net9.0/InventorySystem.Services.dll
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/obj/Debug/net9.0/refint/InventorySystem.Services.dll
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/obj/Debug/net9.0/InventorySystem.Services.pdb
+/Users/bhargavparekh/Desktop/InventorySystem/InventorySystem.Services/obj/Debug/net9.0/ref/InventorySystem.Services.dll
